@@ -1,0 +1,10 @@
+D:\c++_projects\cs408_inLab1\cs408_inLab1\bin\Debug\cs408_inLab1.exe.config
+D:\c++_projects\cs408_inLab1\cs408_inLab1\bin\Debug\cs408_inLab1.exe
+D:\c++_projects\cs408_inLab1\cs408_inLab1\bin\Debug\cs408_inLab1.pdb
+D:\c++_projects\cs408_inLab1\cs408_inLab1\obj\Debug\cs408_inLab1.csprojAssemblyReference.cache
+D:\c++_projects\cs408_inLab1\cs408_inLab1\obj\Debug\cs408_inLab1.Form1.resources
+D:\c++_projects\cs408_inLab1\cs408_inLab1\obj\Debug\cs408_inLab1.Properties.Resources.resources
+D:\c++_projects\cs408_inLab1\cs408_inLab1\obj\Debug\cs408_inLab1.csproj.GenerateResource.cache
+D:\c++_projects\cs408_inLab1\cs408_inLab1\obj\Debug\cs408_inLab1.csproj.CoreCompileInputs.cache
+D:\c++_projects\cs408_inLab1\cs408_inLab1\obj\Debug\cs408_inLab1.exe
+D:\c++_projects\cs408_inLab1\cs408_inLab1\obj\Debug\cs408_inLab1.pdb
