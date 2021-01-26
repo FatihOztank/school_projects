@@ -1,0 +1,1 @@
+Cryptography course term project. Simulation of messaging with STS protocol.
